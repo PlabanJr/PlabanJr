@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Plaban J Rajkhowa</h1>
-<h3 align="center">A Senior Frontend Developer. Currently building <a href="https://boom.fan" target="_blank">Boom - the New Internet 🕸</a></h3>
+<h3 align="center">A Software Developer. Currently breaking and building 🛠️ at <a href="https://www.xto10x.com">xto10x</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plabanjr" alt="plabanjr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/plaban_jr" target="blank"><img src="https://img.shields.io/twitter/follow/plaban_jr?logo=twitter&style=for-the-badge" alt="plaban_jr" /></a> </p>
 
-- 🔭 I’m currently working on [Boom](boom.fan).
+- 🔭 I’m currently working on [xto10x](xto10x.com).
 
-- 🌱 I’m currently learning **Product strategy and thinking, Product Management, Web 3.0 and Personal finances.**
+- 🌱 I’m currently learning **Product strategy and thinking, Product Management, and Personal finances.**
 
 - 💬 Ask me about **react, react-native, nextjs, redux, react-query, typescript, tailwind . . .**
 
